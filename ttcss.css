@@ -1,0 +1,31 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.colhd {
+    width: 200px;
+    height: 30px;
+    background-color:aliceblue;
+}
+
+.lunch {
+    background-color: chocolate;
+}
+
+td{
+    width: 130px;
+}
+
+.colour1 {
+    background-color:darkgray;
+}
+
+.colour2 {
+    background-color:coral;
+}
+
+.colour3 {
+    background-color:deeppink;
+}
+
+    
